@@ -12,8 +12,8 @@ console.log(gameName.__proto__);
 console.log(gameName.length);
 console.log(gameName.toUpperCase());
 
-console.log(gameName.charAt(2));
-console.log(gameName.indexOf(2));
+console.log(gameName.charAt(4));
+console.log(gameName.indexOf(3));
 
 
 
